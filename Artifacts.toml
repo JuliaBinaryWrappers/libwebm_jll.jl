@@ -1,0 +1,316 @@
+[[libwebm]]
+arch = "aarch64"
+git-tree-sha1 = "2fa36bee6992e425004f0a5b45f40f487195ffb1"
+os = "macos"
+
+    [[libwebm.download]]
+    sha256 = "9a9cf6b821379cd05af5196d519a95da3d02fad7679f62f597bda24cb5240f38"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.aarch64-apple-darwin.tar.gz"
+[[libwebm]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ddee63e6646b009672c529c7ed2fbe7a82307a3d"
+libc = "glibc"
+os = "linux"
+
+    [[libwebm.download]]
+    sha256 = "866fe7aab93bc9fc8f3f827f7a162f4d380290c36e1a688a4a090c43682304da"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.aarch64-linux-gnu-cxx03.tar.gz"
+[[libwebm]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d1f2fa2cd4039885a25ceaad72f8a14a3d10ddd3"
+libc = "glibc"
+os = "linux"
+
+    [[libwebm.download]]
+    sha256 = "3a98808d41468a1c098a4c0b501f391c619455bafe96aa986ec5a8634f4cdf1b"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.aarch64-linux-gnu-cxx11.tar.gz"
+[[libwebm]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8b380a2f2e47e9d0af4bc5143e75ba7d4bd6786d"
+libc = "musl"
+os = "linux"
+
+    [[libwebm.download]]
+    sha256 = "f36a136ab07c86169dfc5a6cb32ca450f32ccb948dd3a24025d2eb31e57e3618"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.aarch64-linux-musl-cxx03.tar.gz"
+[[libwebm]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c346c83dd999e301b8d2929366d0f54dab6a47e5"
+libc = "musl"
+os = "linux"
+
+    [[libwebm.download]]
+    sha256 = "213dfe56ede031066466fe602d6f5577a1db1c301884eff242ed578b42ee4026"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.aarch64-linux-musl-cxx11.tar.gz"
+[[libwebm]]
+arch = "aarch64"
+git-tree-sha1 = "e2597b7ddd2d1350713c6bb63f5d3ff21b23cccd"
+os = "freebsd"
+
+    [[libwebm.download]]
+    sha256 = "458e8ceb8eb27a91240029a80dfb32f0a60673137d4c4cbdfe342feeed20885c"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.aarch64-unknown-freebsd.tar.gz"
+[[libwebm]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d07da8be1fc0a186dd0677eb8dd426a0896e933c"
+libc = "glibc"
+os = "linux"
+
+    [[libwebm.download]]
+    sha256 = "ea1852832c1efc0186b5d986015a3651ff2ed9e7b23dd64406a9b8bba7cabaf0"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[libwebm]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "486a4ae96e4aeecbf41cf138efad491fcb035232"
+libc = "glibc"
+os = "linux"
+
+    [[libwebm.download]]
+    sha256 = "65be2a772362c2c5cd51f52314dd142db56719a1bd51057c45982a64ff182c34"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[libwebm]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b284cc432430496b5d71b87d0e48b81e8f1f74e5"
+libc = "musl"
+os = "linux"
+
+    [[libwebm.download]]
+    sha256 = "c2b71b67fc8fd18d57dafaa23a61bfce97e9546a43e889f5b92796a17cf5b087"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[libwebm]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ba2edad81770de89e7cbc81b0ae8e13dd96a6adb"
+libc = "musl"
+os = "linux"
+
+    [[libwebm.download]]
+    sha256 = "fff3480df5b835806cca04bc65f3112013a7cfb715cf631e9c132715c87b5dda"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[libwebm]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "26817637c0a04492be2e9fde7f174874120fdcee"
+libc = "glibc"
+os = "linux"
+
+    [[libwebm.download]]
+    sha256 = "8d6fa06d48b4029a5a60a10d817ec538f7017f09f5ce6febdcf4fe044d4671c3"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[libwebm]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "48f3f4febd3413e29b92f38cb00ab88027ad7b59"
+libc = "glibc"
+os = "linux"
+
+    [[libwebm.download]]
+    sha256 = "2eb09dd41869a35de5642c0ede63df8b00fec4f0b05e916bcd4bd11dd4b6f3b2"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[libwebm]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b43db95d5da59f47abb61fa2a5ed6238bd2016d3"
+libc = "musl"
+os = "linux"
+
+    [[libwebm.download]]
+    sha256 = "00a2af1c815e43aae71f5c4bdbab9864a93bb312101f1cda0da7e61e4a1cd449"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[libwebm]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "471789589d5771820c4e07e4f898d33add46dcea"
+libc = "musl"
+os = "linux"
+
+    [[libwebm.download]]
+    sha256 = "4d69e6fe43546a388e29d106f40deaea0d9199d07eb65fba7a57bc0247fda599"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[libwebm]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4ac8b4e812081f16d2f80fedaaa94cb265a92ebf"
+libc = "glibc"
+os = "linux"
+
+    [[libwebm.download]]
+    sha256 = "2c9d23b4d5b25fe51b064cde5a82445bbf516eb9d9d6424b6a9882acdf74c0b9"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.i686-linux-gnu-cxx03.tar.gz"
+[[libwebm]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c37838e9909f783cd99eca5c763be9b1c7140dcc"
+libc = "glibc"
+os = "linux"
+
+    [[libwebm.download]]
+    sha256 = "751a010401e919ca58aebd09ee680da0bb825ce56aa28548dc4e692f163108a3"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.i686-linux-gnu-cxx11.tar.gz"
+[[libwebm]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fa5f6cb095e1521feb7ce03ad9854a6aefd9b0e8"
+libc = "musl"
+os = "linux"
+
+    [[libwebm.download]]
+    sha256 = "8dc17b1897dbf5e9179b62b823eacaa2f8109a4607a9d759e96cd0981a57d438"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.i686-linux-musl-cxx03.tar.gz"
+[[libwebm]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "06a43bfe6fd20984a4b13debc49ab3b649864167"
+libc = "musl"
+os = "linux"
+
+    [[libwebm.download]]
+    sha256 = "589f5f569219340a327f245eaa93546af2c76f84a8fc54c013ea310573a0e53a"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.i686-linux-musl-cxx11.tar.gz"
+[[libwebm]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "732be70bcc49a0b3e31904ecf69703f5e6d07d50"
+os = "windows"
+
+    [[libwebm.download]]
+    sha256 = "bbafc12b41cc7eb6419e0aacca651bdfe4fc684a94fe349e6dacb8ed27308577"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.i686-w64-mingw32-cxx03.tar.gz"
+[[libwebm]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b5285f52c4a1963e75fe8cc0b84e0b5959931c53"
+os = "windows"
+
+    [[libwebm.download]]
+    sha256 = "8ad617a15a975a08f507392471a8b3ae48a1b05f05489677214d5fa692b400b7"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.i686-w64-mingw32-cxx11.tar.gz"
+[[libwebm]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9163e928d7a6550f8185178b1d950e1e40253561"
+libc = "glibc"
+os = "linux"
+
+    [[libwebm.download]]
+    sha256 = "cadd69d352b57ccca8c4f2cb931ef46cf0aaa5272a101b84a93e21d0909dba2e"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[libwebm]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9e2b371c95d885b8dc9ec782c03ea336b0d58df2"
+libc = "glibc"
+os = "linux"
+
+    [[libwebm.download]]
+    sha256 = "faecd9d919f6fca0843542896cae4ab9189d1590fc4920930c5e598d09fb605f"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[libwebm]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e2a0d6797119e55f5adfa9be837c4959f3ccc6ba"
+libc = "glibc"
+os = "linux"
+
+    [[libwebm.download]]
+    sha256 = "ac4c901ed17f4d5ff24a7a43e374469aee7fb69a0a3e4d533d152631496f0ce3"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.riscv64-linux-gnu-cxx03.tar.gz"
+[[libwebm]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aaadbb24c2f1b3a20b71ddf407ed73d725c7aca9"
+libc = "glibc"
+os = "linux"
+
+    [[libwebm.download]]
+    sha256 = "2f624f6b100a3865faebe9890cfba6bf5f7a56c5aac0244032f021fde6b4a957"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.riscv64-linux-gnu-cxx11.tar.gz"
+[[libwebm]]
+arch = "x86_64"
+git-tree-sha1 = "da52a6b82b4de6d76fc49f6419569e6d801f4233"
+os = "macos"
+
+    [[libwebm.download]]
+    sha256 = "30b763107de4cc6e84339fa814fef81f7ef7251a3a99c4f6a3189e871a4a3d24"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.x86_64-apple-darwin.tar.gz"
+[[libwebm]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f180d80a2333fe036f824a9fc9cc37175542e873"
+libc = "glibc"
+os = "linux"
+
+    [[libwebm.download]]
+    sha256 = "f407aa5aee16a89e85d50a84c11be6d170886937d86d40316731fa198149e7c3"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.x86_64-linux-gnu-cxx03.tar.gz"
+[[libwebm]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "731a92a13e8704138c4d33c1f8a4392ffe79bed6"
+libc = "glibc"
+os = "linux"
+
+    [[libwebm.download]]
+    sha256 = "43ff93dbd7cdb3bb140453e35ebfea7ecfe4ea6bad5a151b54d6aa55092370de"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.x86_64-linux-gnu-cxx11.tar.gz"
+[[libwebm]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e2ef781f5ffb370eaebd8b7520ae2e675ba7b7f7"
+libc = "musl"
+os = "linux"
+
+    [[libwebm.download]]
+    sha256 = "00a3220bf38884b1f055f78d61b5c049c85ee3e637b01b872be51c5b4d22bc6a"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.x86_64-linux-musl-cxx03.tar.gz"
+[[libwebm]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "390a1ed3e8869b2bfb83f4ab2d1d2cff06416ce3"
+libc = "musl"
+os = "linux"
+
+    [[libwebm.download]]
+    sha256 = "4f86cf00172d07a646f8ce8a75e38c9dd8386367b8217c82d04441b2b88799fb"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.x86_64-linux-musl-cxx11.tar.gz"
+[[libwebm]]
+arch = "x86_64"
+git-tree-sha1 = "4bbad09011260df4a1eca4222c19dde70e7ee3f5"
+os = "freebsd"
+
+    [[libwebm.download]]
+    sha256 = "64d5f1f638d9e1d0d0aa17590578310d82797a54168117faf69cbe8b974ee7b8"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.x86_64-unknown-freebsd.tar.gz"
+[[libwebm]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f41b628d01d48345340c5105af7c3cbe773bce4d"
+os = "windows"
+
+    [[libwebm.download]]
+    sha256 = "fa42a66fdc24598803c90448c2233eed412e53cf6908ea04143877c6fb31d48d"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.x86_64-w64-mingw32-cxx03.tar.gz"
+[[libwebm]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3adc413d2eabc85a3354fe8b4dbbd640c6404d38"
+os = "windows"
+
+    [[libwebm.download]]
+    sha256 = "c01c5e4fffedc7773f893733870d3331962f3ecbe27b0463c881cfd27ccfbead"
+    url = "https://github.com/JuliaBinaryWrappers/libwebm_jll.jl/releases/download/libwebm-v1.0.31+0/libwebm.v1.0.31.x86_64-w64-mingw32-cxx11.tar.gz"
